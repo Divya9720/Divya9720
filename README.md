@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | React.js | Full Stack Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Divya9720&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
@@ -76,12 +76,12 @@ I am a **Frontend Developer at VahanWire Pvt. Ltd.**, focused on building **resp
 | Project | Description | Tech Stack | Live |
 |--------|------------|------------|------|
 | VahanWire AMC Panel | Admin panel with API integration & responsive UI | React.js, Tailwind CSS | Private |
-| VahanWire AMC Website | Responsive company website | React.js, Tailwind CSS | Private |
+| VahanWire AMC Website | Responsive company website | React.js, Tailwind CSS | [Live](https://vahanwire.com/) |
 | Amazon Clone | E-commerce frontend UI | HTML, CSS, Bootstrap | [Live](https://amazonwebclone-nine.vercel.app) |
 | ClothZy Website | Product-based UI with categories | HTML, CSS, JS | [Live](https://cloth-zy.vercel.app/products.html) |
-| Portfolio Website | Personal developer portfolio | HTML, CSS, JS | [Live](https://myportfolio-smoky-xi-69.vercel.app/) |
+| Portfolio Website | Personal developer portfolio | React.js, Tailwind CSS | [Live](https://myportfolio-smoky-xi-69.vercel.app/) |
 | Malware Detection System | ML-based malware detection | Python, Django, SQLite | Private |
-| Electrom Communication Website | Business website UI | HTML, CSS, JS | Private |
+| Electrom Communication Website | Business website UI | React.js, Tailwind CSS | Private |
 
 ---
 
