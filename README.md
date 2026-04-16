@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Divya Chauhan</h1>
-<h3 align="center">A passionate Frontend Developer | React.js & UI Specialist</h3>
+<h3 align="center">Frontend Developer | React.js | Full Stack Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;Full+Stack+Learner&center=true&width=500&height=50">
 </p>
 
 ---
@@ -22,53 +26,69 @@
 
 ## 👩‍💻 About Me
 
-I am a **Junior Frontend Developer at VahanWire Pvt. Ltd.**, specializing in building **responsive, scalable, and high-performance web applications** using **React.js and Tailwind CSS**.
+I am a **Frontend Developer at VahanWire Pvt. Ltd.**, focused on building **responsive, scalable, and user-friendly web applications**.
 
-**Currently, I:**
-- Develop modern UI based on Figma designs  
-- Integrate RESTful APIs for seamless data flow  
-- Optimize UI performance and responsiveness across devices  
+- 🔭 Currently working on: **AMC Website & Admin Panel**
+- 🌱 Learning: **Full Stack Development (Node.js, Next.js)**
+- 💡 Strong in: **React.js, UI Development, API Integration, Responsive Design**
 
-**Previously:**
-- Worked as a Frontend Intern at VahanWire  
-- Completed Web Development Internship at Zeabros Pvt. Ltd.  
+📄 **[View Portfolio](https://myportfolio-smoky-xi-69.vercel.app/)**  
 
-📄 **[Download My Resume](PASTE_YOUR_DRIVE_LINK_HERE)**  
+---
+
+## 💼 Experience
+
+### 🏢 VahanWire Pvt. Ltd. — Junior Frontend Developer  
+📅 Jan 2025 – Present  
+
+- Built responsive UI using **React.js & Tailwind CSS**  
+- Integrated **REST APIs** for real-time data flow  
+- Improved performance and cross-browser compatibility  
+
+---
+
+### 🏢 VahanWire Pvt. Ltd. — Frontend Intern  
+📅 Oct 2024 – Dec 2024  
+
+- Developed reusable UI components  
+- Improved UI/UX and layouts  
+
+---
+
+### 🏢 Zeabros Pvt. Ltd. — Web Developer Intern  
+📅 Jul 2024 – Sep 2024  
+
+- Built responsive pages using HTML, CSS, Bootstrap  
+- Worked on UI improvements and bug fixing  
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,python" />
-    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap,tailwind,nodejs,nextjs,mysql,sqlite,git,github,vscode,postman" />
 </div>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=django,mysql,sqlite" />
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</div>
-
-<br/>
-<hr/>
 
 ---
 
 ## 🚀 Projects
 
-| Project | Description | Tech Stack | GitHub |
-|--------|------------|------------|--------|
-| VahanWire AMC Website & Admin Panel | Built responsive UI with API integration and admin features | React.js, Tailwind CSS, JavaScript | [Repo](#) |
-| Malware Detection System | ML-based malware detection using Random Forest | Python, Django, SQLite | [Repo](#) |
-| Amazon Clone | Responsive e-commerce UI | HTML, CSS, Bootstrap | [Repo](#) |
+| Project | Description | Tech Stack | Live |
+|--------|------------|------------|------|
+| VahanWire AMC Panel | Admin panel with API integration & responsive UI | React.js, Tailwind CSS | Private |
+| VahanWire AMC Website | Responsive company website | React.js, Tailwind CSS | Private |
+| Amazon Clone | E-commerce frontend UI | HTML, CSS, Bootstrap | [Live](https://amazonwebclone-nine.vercel.app) |
+| ClothZy Website | Product-based UI with categories | HTML, CSS, JS | [Live](https://cloth-zy.vercel.app/products.html) |
+| Portfolio Website | Personal developer portfolio | HTML, CSS, JS | [Live](https://myportfolio-smoky-xi-69.vercel.app/) |
+| Malware Detection System | ML-based malware detection | Python, Django, SQLite | Private |
+| Electrom Communication Website | Business website UI | HTML, CSS, JS | Private |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
@@ -77,6 +97,13 @@ I am a **Junior Frontend Developer at VahanWire Pvt. Ltd.**, specializing in bui
 
 ---
 
+## ⚡ Strength
+
+🚀 Working professional experience at **VahanWire Pvt. Ltd.**  
+💡 Strong hands-on in **React + API Integration + UI Development**  
+
+---
+
 ## ⚡ Fun Fact
 
-I enjoy building real-world web applications that solve practical problems and improve user experience 🚀
+I enjoy building real-world applications and continuously improving UI/UX 🚀
