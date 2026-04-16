@@ -89,8 +89,7 @@ I am a **Frontend Developer at VahanWire Pvt. Ltd.**, focused on building **resp
 | Amazon Clone | E-commerce frontend UI | HTML, CSS, Bootstrap | [Live](https://amazonwebclone-nine.vercel.app) |
 | ClothZy Website | Product-based UI with categories | HTML, CSS, JS | [Live](https://cloth-zy.vercel.app/products.html) |
 | Portfolio Website | Personal developer portfolio | React.js, Tailwind CSS | [Live](https://myportfolio-smoky-xi-69.vercel.app/) |
-| Malware Detection System | ML-based malware detection | Python, Django, SQLite | Private |
-| Electrom Communication Website | Business website UI | React.js, Tailwind CSS | Private |
+| Electrom Communication Website | Business website UI | React.js, Tailwind CSS | [Live](https://electromcommunications.com/) |
 
 ---
 
